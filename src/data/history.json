@@ -1,0 +1,15 @@
+[
+  {
+    "role": "Back-End Developer",
+    "organisation": "WoWMoons",
+    "startDate": "April, 2024",
+    "endDate": "November, 2024",
+    "experiences": [
+      "Built RESTful APIs to connect front-end and back-end systems",
+      "Used Blade to create dynamic and userfriendly web pages.",
+      "Fixed bugs to keep systems running smoothly with minimal downtime.",
+      "Reviewed code and followed best practices for clean, scalable development."],
+    "imageSrc": "history/wow.jpg"
+  }
+  
+]
